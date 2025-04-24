@@ -55,7 +55,7 @@ A modular and extensible calculator that evaluates arithmetic expressions writte
 │       └── java
 │           └── org.example
 │               ├── RPNCalculatorTest.java
-│               ├── StackTest.java
+│               └── StackTest.java
 ```
 
 ## 🛠️ Technologies Used
@@ -91,6 +91,10 @@ mvn test
 ## 🧠 What I Learned
 
 - Implementing abstract operators using interfaces and factories
-- Writing robust unit tests with JUnit 5
+- Writing robust unit tests using the Arrange-Act-Assert (AAA) pattern
 - Clean object-oriented design for stack-based computation
 - Building scalable and maintainable code using SOLID principles
+
+## ✍ Author
+
+Developed by [@qlpak](https://github.com/qlpak)
